@@ -38,7 +38,7 @@
         },
         {
             "label": "Consiento que traten mis datos:",
-            "transcriptFields": ["Consentimiento__c"]
+            "transcriptFields": ["CustomerConsentimiento__c"]
 	    
         }
  		
