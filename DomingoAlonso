@@ -1,5 +1,5 @@
 <body>
-    <h1> Pruebaa de Chatsss websitesss integrado</h1>
+    <h1> Pruebaa de Chatsss websitesss integrado 1</h1>
     
 	<style type='text/css'>
     .embeddedServiceHelpButton .helpButton .uiButton {
@@ -37,7 +37,7 @@
             "transcriptFields": ["CustomerProblem__c"]
         },
         {
-            "label": "Consiento que traten mis datos:",
+            "label": "Consentimiento",
             "transcriptFields": ["CustomerConsentimiento__c"]
 	    
         }
