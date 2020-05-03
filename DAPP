@@ -3,11 +3,11 @@
     
 	<style type='text/css'>
     .embeddedServiceHelpButton .helpButton .uiButton {
-        background-color: #000000;
+        background-color: #005eb8;
         font-family: "Arial", sans-serif;
     }
     .embeddedServiceHelpButton .helpButton .uiButton:focus {
-        outline: 1px solid #000000;
+        outline: 1px solid #005eb8;
     }
 	</style>
 
