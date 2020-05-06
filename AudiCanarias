@@ -37,7 +37,7 @@
             "transcriptFields": ["CustomerProblem__c"]
         },
         {
-            "label": "Consiento que traten mis datos:",
+            "label": "Consiento que traten mis datos",
             "transcriptFields": ["CustomerConsentimiento__c"]
 	    
         }
