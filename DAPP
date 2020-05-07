@@ -37,7 +37,7 @@
             "transcriptFields": ["CustomerProblem__c"]
         },
         {
-            "label": "Consiento que traten mis datos:",
+            "label": "Consiento que traten mis datos",
             "transcriptFields": ["CustomerConsentimiento__c"]
 	    
         }
@@ -82,9 +82,9 @@
 	    {
             "doCreate":false,
             "doFind":false,
-            "fieldName":"Consiento que traten mis datos:",
+            "fieldName":"Consiento que traten mis datos",
             "isExactMatch":false,
-            "label":"Consiento que traten mis datos:"
+            "label":"Consiento que traten mis datos"
            }]
 	}
 	];
