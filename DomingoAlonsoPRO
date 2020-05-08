@@ -19,7 +19,7 @@
        
  embedded_svc.settings.extraPrechatFormDetails = [
         {
-            "label": "Name",
+            "label": "Nombre",
             "transcriptFields": ["CustomerName__c"],
             "displayToAgent":true
         },
@@ -51,9 +51,9 @@
         "entityFieldMaps": [{
             "doCreate":false,
             "doFind":false,
-            "fieldName":"Name",
+            "fieldName":"Nombre",
             "isExactMatch":false,
-            "label":"Name"
+            "label":"Nombre"
             },
 	    {
             "doCreate":false,
