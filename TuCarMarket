@@ -34,7 +34,7 @@
         },
  	{
             "label": "Tipo de consulta",
-            "transcriptFields": ["CustomerProblemVO__c"]
+            "transcriptFields": ["CustomerProblem__c"]
         },
         {
             "label": "Consiento que traten mis datos",
