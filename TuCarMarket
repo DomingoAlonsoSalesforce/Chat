@@ -1,5 +1,5 @@
 <body>
-    <h1> Prueba de Chat TuCarMarket</h1>
+    <h1> Prueba de Chat TuCarMarket 1</h1>
     
 	<style type='text/css'>
     .embeddedServiceHelpButton .helpButton .uiButton {
@@ -33,8 +33,8 @@
             "transcriptFields": ["CustomerEmail__c"]
         },
  	{
-            "label": "Consulta",
-            "transcriptFields": ["CustomerProblem__c"]
+            "label": "Tipo de consulta",
+            "transcriptFields": ["CustomerProblemVO__c"]
         },
         {
             "label": "Consiento que traten mis datos",
@@ -75,9 +75,9 @@
 	   "entityFieldMaps": [{
             "doCreate":false,
             "doFind":false,
-            "fieldName":"Consulta",
+            "fieldName":"Tipo de consulta",
             "isExactMatch":false,
-            "label":"Consulta"
+            "label":"Tipo de consulta"
             },
 	    {
             "doCreate":false,
