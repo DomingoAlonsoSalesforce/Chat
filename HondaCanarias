@@ -33,7 +33,7 @@
             "transcriptFields": ["CustomerEmail__c"]
         },
  	{
-            "label": "Consulta",
+            "label": "Tipo de consulta",
             "transcriptFields": ["CustomerProblem__c"]
         },
         {
@@ -75,9 +75,9 @@
 	   "entityFieldMaps": [{
             "doCreate":false,
             "doFind":false,
-            "fieldName":"Consulta",
+            "fieldName":"Tipo de consulta",
             "isExactMatch":false,
-            "label":"Consulta"
+            "label":"Tipo de consulta"
             },
 	    {
             "doCreate":false,
