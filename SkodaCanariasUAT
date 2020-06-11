@@ -6,11 +6,11 @@
     
 	<style type='text/css'>
     .embeddedServiceHelpButton .helpButton .uiButton {
-        background-color: #000000;
+        background-color: #4ba82e;
         font-family: "Arial", sans-serif;
     }
     .embeddedServiceHelpButton .helpButton .uiButton:focus {
-        outline: 1px solid #000000;
+        outline: 1px solid #4ba82e;
     }
 	</style>
 
@@ -92,8 +92,8 @@
 	}
 	];
 
-        embedded_svc.settings.defaultMinimizedText = 'Chat'; //(Defaults to Chat with an Expert)
-        embedded_svc.settings.disabledMinimizedText = 'Chat'; //(Defaults to Agent Offline)
+        embedded_svc.settings.defaultMinimizedText = 'Hablamos'; //(Defaults to Chat with an Expert)
+        embedded_svc.settings.disabledMinimizedText = 'Hablamos'; //(Defaults to Agent Offline)
 	embedded_svc.settings.offlineSupportMinimizedText = 'Déjanos tu consulta';
         embedded_svc.settings.loadingText = 'Cargando'; //(Defaults to Loading)
         //embedded_svc.settings.storageDomain = 'yourdomain.com'; //(Sets the domain for your deployment so that visitors can navigate subdomains during a chat session)
