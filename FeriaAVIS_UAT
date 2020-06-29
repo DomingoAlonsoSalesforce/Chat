@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 </head>
 <body>
-    <h1> Prueba de Chat Feria AVIS UAT prueba4</h1>
+    <h1> Prueba de Chat Feria AVIS UAT prueba5</h1>
     
 	<style type='text/css'>
     .embeddedServiceHelpButton .helpButton .uiButton {
@@ -24,8 +24,7 @@
         {
             "label": "Nombre",
             "transcriptFields": ["CustomerName__c"],
-            "displayToAgent":true,
-	    "value":"Manuel"
+            "displayToAgent":true
         },
         {
             "label": "Apellidos",
@@ -64,17 +63,15 @@
             "doFind":false,
             "fieldName":"Apellidos",
             "isExactMatch":false,
-            "label":"Apellidos",
-	    "value":"García Pérez"
-           }, 
+            "label":"Apellidos"
+	    }, 
            {
             "doCreate":false,
             "doFind":true,
             "fieldName":"Correo electrónico",
             "isExactMatch":false,
-            "label":"Correo electrónico",
-	    "value":"manuelgarcia@prueba.es"
-          }]
+            "label":"Correo electrónico"
+	    }]
     	}, 
 	{
            "entityName":"Case",
@@ -106,7 +103,14 @@
             // Dynamically changes the button ID based on what the visitor enters in the pre-chat form.
             // Returns a valid button ID.
         //};
-        //embedded_svc.settings.prepopulatedPrechatFields = {}; //Sets the auto-population of pre-chat form fields
+	//Sets the auto-population of pre-chat form fields
+        embedded_svc.settings.prepopulatedPrechatFields = {
+	   Nombre: “John”,
+	   Apellidos: “Doe”
+	};
+
+	
+	}; 
         //embedded_svc.settings.fallbackRouting = []; //An array of button IDs, user IDs, or userId_buttonId
         //embedded_svc.settings.offlineSupportMinimizedText = '...'; //(Defaults to Contact Us)
         
