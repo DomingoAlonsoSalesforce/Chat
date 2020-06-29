@@ -24,7 +24,8 @@
         {
             "label": "Nombre",
             "transcriptFields": ["CustomerName__c"],
-            "displayToAgent":true
+            "displayToAgent":true,
+	    "value":"Manuel"
         },
         {
             "label": "Apellidos",
