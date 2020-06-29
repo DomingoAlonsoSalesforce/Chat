@@ -105,8 +105,8 @@
         //};
 	//Sets the auto-population of pre-chat form fields
         embedded_svc.settings.prepopulatedPrechatFields = {
-	FirstName: “John”,
-        LastName: “Doe”
+	FirstName: 'John',
+        LastName: 'Doe'
 	};
 
 	
