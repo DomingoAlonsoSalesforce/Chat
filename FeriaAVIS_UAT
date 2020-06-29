@@ -56,21 +56,24 @@
             "doFind":false,
             "fieldName":"Nombre",
             "isExactMatch":false,
-            "label":"Nombre"
+            "label":"Nombre",
+	    "value":"Manuel"
             },
 	    {
             "doCreate":false,
             "doFind":false,
             "fieldName":"Apellidos",
             "isExactMatch":false,
-            "label":"Apellidos"
+            "label":"Apellidos",
+	    "value":"García Pérez"
            }, 
            {
             "doCreate":false,
             "doFind":true,
             "fieldName":"Correo electrónico",
             "isExactMatch":false,
-            "label":"Correo electrónico"
+            "label":"Correo electrónico",
+	    "value":"manuelgarcia@prueba.es"
           }]
     	}, 
 	{
