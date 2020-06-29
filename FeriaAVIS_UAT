@@ -133,7 +133,7 @@
 				buttonId: '5730E000000010D',
 				baseLiveAgentURL: 'https://d.la2-c1cs-cdg.salesforceliveagent.com/chat',
 				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I0E0000008Oh3UAE_172cb8e42da',
-				isOfflineSupportEnabled: true
+				isOfflineSupportEnabled: false
 			}
 		);
 	};
