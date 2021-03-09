@@ -6,11 +6,11 @@
     
 	<style type='text/css'>
     .embeddedServiceHelpButton .helpButton .uiButton {
-        background-color: #ffcc00;
+        background-color: #000000;
         font-family: "Arial", sans-serif;
     }
     .embeddedServiceHelpButton .helpButton .uiButton:focus {
-        outline: 1px solid #ffcc00;
+        outline: 1px solid #000000;
     }
            .previews img {
                max-width: 100%;
