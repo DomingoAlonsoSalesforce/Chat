@@ -126,13 +126,13 @@
 			'https://domingoalonso.secure.force.com/liveAgentSetupFlow',
 			gslbBaseURL,
 			'00D1i000000V9Lj',
-			'Skoda_Canarias',
+			'Silence_Canarias',
 			{
 				baseLiveAgentContentURL: 'https://c.la1-c2-fra.salesforceliveagent.com/content',
 				deploymentId: '5721i000000L3TW',
-				buttonId: '5731i000000L3yn',
+				buttonId: '5731i000000XjPk',
 				baseLiveAgentURL: 'https://d.la1-c2-fra.salesforceliveagent.com/chat',
-				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I0E00000000QeUAI_17178cd06d0',
+				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I0E000000Cb4eUAC_177f753a238',
 				isOfflineSupportEnabled: true
 			}
 		);
