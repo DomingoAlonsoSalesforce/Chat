@@ -130,7 +130,7 @@
 			{
 				baseLiveAgentContentURL: 'https://c.la2s-core1.sfdc-urlt2q.salesforceliveagent.com/content',
 				deploymentId: '5720E000000CbK9',
-				buttonId: '5730E00000000z0',
+				buttonId: '573Aa000000Ul7x',
 				baseLiveAgentURL: 'https://d.la2s-core1.sfdc-urlt2q.salesforceliveagent.com/chat',
 				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04IAa00000023mbMAA_18becd0c63a',
 				isOfflineSupportEnabled: true
